@@ -2,6 +2,8 @@
  I designed ESP32 dev kit (ESP32-WROOM module) with kciad . I keep it like the real ESP32 boards mesurment so it can fit on a breadboard and other stuff
 
  just download all the files and put them in a foulder and open it with kicad , you find there shymatics and pcb
+
+ 
 ![d3fc1040-e2c9-4413-ac09-0e022507afaa](https://github.com/user-attachments/assets/d537c0a5-259f-496c-8db8-6eca03170184)
 <img width="801" height="634" alt="Capture d’écran 2025-09-01 031634" src="https://github.com/user-attachments/assets/1ec56b70-c6bf-4190-a8a5-f31c4cd860fd" />
 <img width="878" height="464" alt="Capture d’écran 2025-09-01 031518" src="https://github.com/user-attachments/assets/7fcce43e-11d9-4de2-ab19-e16da1feb0ef" />
